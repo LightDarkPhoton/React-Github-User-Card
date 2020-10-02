@@ -1,0 +1,17 @@
+
+
+#mainSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title {
+    display: flex;
+    justify-content: center;
+}
+
+#followersHeader {
+    display: flex;
+    justify-content: center;
+}
